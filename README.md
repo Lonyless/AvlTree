@@ -1,6 +1,6 @@
 # AvlTree
 
-Avl tree implemented during Data Strtucture 2 classes.
+Avl tree implemented during Data Structure 2 classes.
 
 -----------------------------------------------------
 
